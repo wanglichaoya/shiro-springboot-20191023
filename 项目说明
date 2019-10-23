@@ -1,0 +1,9 @@
+这个项目是基于：SpringBoot + mysql + mybatis +shiro 做的角色权限管理的案例
+
+路径：
+
+角色权限管理路径：
+http://127.0.0.1:8080/shiro/config/listUser
+
+登录路径：
+http://127.0.0.1:8080/shiro/login
