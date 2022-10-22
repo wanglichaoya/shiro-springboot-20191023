@@ -18,9 +18,11 @@
 	    <br>
 	    <br>
 	<div>
-		<span class="desc">账号:王立朝 密码:1 角色:admin(超级管理员),productManager（产品经理）,orderManager(订单经理)</span><br>
-		<span class="desc">账号:张三 密码:1 角色:orderManager(订单经理)</span><br>
-		<span class="desc">账号:李四 密码:1 角色:productManager（产品经理）</span><br>
+		<span><h6>如果下面的账户无法访问，请访问<a href="http://127.0.0.1:8080/shiro/config/listUser">查看用户列表</a></h6></span>
+		<span class="desc">
+			     账号:zhangsan 密码:1
+			<br/>角色:admin(超级管理员),productManager（产品经理）,orderManager(订单经理)</span><br>
+
 	</div>
 	    
 	    
